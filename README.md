@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...everything
 - 🌱 I’m currently learning ... python, C++, CSS, HTML, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...github email
+- 📫 How to reach me ... yaqube033@gmail.com
 
 <!---
 yaquire/yaquire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
