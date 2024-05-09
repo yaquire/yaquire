@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaquire
 - 👀 I’m interested in ...everything
-- 🌱 I’m currently learning ... how to make MC datapacks
+- 🌱 I’m currently learning ... python, C++, CSS, HTML, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...github email
 
