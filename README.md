@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaquire
 - 👀 I’m interested in ...everything
-- 🌱 I’m currently learning ... python, C++, CSS, HTML, JS
+- 🌱 I’m currently learning ... python, C++, CSS, HTML, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yaqube033@gmail.com
 
